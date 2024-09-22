@@ -26,7 +26,7 @@ const About = () => {
             <h2 className="text-4xl md:text-6xl font-bold text-gray-800 mb-12">
               About Us
             </h2>
-            <p className="text-lg md:text-xl text-gray-700 leading-relaxed mb-4">
+            <p className="text-lg md:text-xl text-black-700 leading-relaxed mb-4 font-semibold ">
               Zimulate Consultech LLP is a growing tech consultancy based in
               Kerala, dedicated to helping businesses reach their full
               potential. Our team of experts provides tailored solutions to
@@ -36,7 +36,7 @@ const About = () => {
               Kerala Startup Mission, we are committed to fostering innovation
               and entrepreneurship in the region.
             </p>
-            <p className="text-lg md:text-xl text-gray-700 leading-relaxed mb-4">
+            <p className="text-lg md:text-xl text-black-700 leading-relaxed mb-4 font-semibold">
               Our collaborative approach ensures that we not only understand our
               clients’ needs but also actively contribute to their growth
               journey. By leveraging cutting-edge technologies and industry best
