@@ -5,55 +5,55 @@ const teamMembers = [
     {
         name: "Vishnu S",
         position: "Director & CEO",
-        photo: "../../assets/images/Vishnuu.png",
+        photo: "/assets/images/Vishnuu.png",
         linkedin: "https://www.linkedin.com/in/vishnus06/"
     },
     {
         name: "Justin Jacob",
         position: "Chief Operating Officer",
-        photo: "../../assets/images/justinn.png",
+        photo: "/assets/images/justinn.png",
         linkedin: "https://www.linkedin.com/in/justinjacob01/"
     },
     {
         name: "Edric Thomas",
         position: "Director & CMO",
-        photo: "../../assets/images/edric-modified.png",
+        photo: "/assets/images/edric-modified.png",
         linkedin: "https://www.linkedin.com/in/edric-thomas/"
     },
     {
         name: "Devakrishna Dileep",
         position: "Chief Financial Officer",
-        photo: "../../assets/images/deva-modified.png",
+        photo: "/assets/images/deva-modified.png",
         linkedin: "https://www.linkedin.com/in/devakrishna-dileep/"
     },
     {
         name: "Anandakrishnan T.V",
         position: "Technical Head",
-        photo: "../../assets/images/ananthakrish-modified.png",
+        photo: "/assets/images/ananthakrish-modified.png",
         linkedin: "https://www.linkedin.com/in/anandakrishnanvinod/"
     },
     {
         name: "ARSHAK Rehman",
         position: "Chief Technical Officer",
-        photo: "../../assets/images/arshak-.png",
+        photo: "/assets/images/arshak-.png",
         linkedin: "https://www.linkedin.com/in/arshak-rehuman-s-54857b189/"
     },
     {
         name: "Ashwin Shaji",
         position: "Research Head",
-        photo: "../../assets/images/ashwin.png",
+        photo: "/assets/images/ashwin.png",
         linkedin: "https://www.linkedin.com/in/ashwin-shaji-01b272237/"
     },
     {
         name: "Adhithya Shine",
         position: "Web Developer",
-        photo: "../../assets/images/adhi.png",
+        photo: "/assets/images/adhi.png",
         linkedin: "https://www.linkedin.com/in/adhithya-shine/"
     },
     {
         name: "Govind Sankar",
         position: "App Developer",
-        photo: "../../assets/images/govind1.png",
+        photo: "/assets/images/govind1.png",
         linkedin: "https://www.linkedin.com/in/itzjustgk/"
     }
 ];
