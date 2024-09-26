@@ -11,7 +11,7 @@ const teamMembers = [
     {
         name: "Justin Jacob",
         position: "Chief Operating Officer",
-        photo: "/assets/images/justinn.png",
+        photo: "/assets/images/Justinn.png",
         linkedin: "https://www.linkedin.com/in/justinjacob01/"
     },
     {
