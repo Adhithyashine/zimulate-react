@@ -10,11 +10,11 @@ const Services = () => {
         id="services"
         className="py-20"
         style={{
-          background: "linear-gradient(to bottom, #9933ff 0%, #cc99ff 100%)"
+          background: "linear-gradient(to bottom, #000099 0%, #0099ff 100%)"
         }}
       >
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-5xl md:text-6xl font-bold text-gray-800 mb-8">
+          <h2 className="text-5xl md:text-6xl font-bold text-white mb-8">
             Our Services
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

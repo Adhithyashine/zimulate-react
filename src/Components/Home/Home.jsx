@@ -5,7 +5,7 @@ const Home = () => {
         id="home"
         className="h-screen text-white flex items-center justify-center"
         style={{
-          background:'linear-gradient(to bottom, #9933ff 0%, #33ccff 100%)'
+          background:'linear-gradient(to bottom, #000099 0%, #0099ff 100%)'
         }}
       >
         <div className="text-center px-4">

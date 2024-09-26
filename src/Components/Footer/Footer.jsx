@@ -13,7 +13,7 @@ const Footer = () => {
     <footer
       className="py-16"
       style={{
-        background: "linear-gradient(to top, #00ccff 0%, #cc99ff 100%)"
+        background: "linear-gradient(to bottom, #000000 0%, #000000 100%)"
       }}
     >
       <div className="container mx-auto px-4">
@@ -102,7 +102,7 @@ const Footer = () => {
         </div>
 
         {/* Footer Bottom */}
-        <div className="mt-20 text-2xl text-center text-white font-semibold">
+        <div className="mt-20 text-2xl text-center text-white font-thin">
           © 2024 Zimulate Consultech LLP. All rights reserved.
         </div>
       </div>
