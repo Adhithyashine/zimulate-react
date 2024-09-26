@@ -1,5 +1,5 @@
 // src/Team.jsx
-import { FaLinkedin } from 'react-icons/fa'; // Importing LinkedIn icon from react-icons
+import { FaLinkedin } from 'react-icons/fa';
 
 const teamMembers = [
     {
